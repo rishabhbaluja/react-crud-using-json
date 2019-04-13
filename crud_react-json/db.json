@@ -1,0 +1,26 @@
+{
+  "todos": [
+    {
+      "name": "pro1",
+      "status": "Complete",
+      "id": 1
+    },
+    {
+      "name": "juice ",
+      "status": "false",
+      "id": 2
+    }
+  ],
+  "login": [
+    {
+      "username": "nih",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "rb",
+      "password": "123",
+      "id": 2
+    }
+  ]
+}
